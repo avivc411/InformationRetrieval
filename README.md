@@ -25,10 +25,7 @@ Remove files:
 1. Click on reset - removes index and posting files (not the corpus)
 
 Optional filters for queries:
-Cities
-Language
-Sementic related terms
+Cities,
+Language,
+Sementic related terms,
 Strong entities
-
-
-
